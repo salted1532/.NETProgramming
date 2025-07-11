@@ -1,0 +1,10 @@
+C:\Users\seoil\source\repos\molegame\molegame\bin\Debug\molegame.exe.config
+C:\Users\seoil\source\repos\molegame\molegame\bin\Debug\molegame.exe
+C:\Users\seoil\source\repos\molegame\molegame\bin\Debug\molegame.pdb
+C:\Users\seoil\source\repos\molegame\molegame\obj\Debug\molegame.csproj.AssemblyReference.cache
+C:\Users\seoil\source\repos\molegame\molegame\obj\Debug\molegame.Form1.resources
+C:\Users\seoil\source\repos\molegame\molegame\obj\Debug\molegame.Properties.Resources.resources
+C:\Users\seoil\source\repos\molegame\molegame\obj\Debug\molegame.csproj.GenerateResource.cache
+C:\Users\seoil\source\repos\molegame\molegame\obj\Debug\molegame.csproj.CoreCompileInputs.cache
+C:\Users\seoil\source\repos\molegame\molegame\obj\Debug\molegame.exe
+C:\Users\seoil\source\repos\molegame\molegame\obj\Debug\molegame.pdb
