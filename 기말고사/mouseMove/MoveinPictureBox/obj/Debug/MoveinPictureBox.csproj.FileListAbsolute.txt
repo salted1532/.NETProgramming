@@ -1,0 +1,10 @@
+D:\91_CSharp\02_Free\Study\MoveinPictureBox\MoveinPictureBox\bin\Debug\MoveinPictureBox.exe.config
+D:\91_CSharp\02_Free\Study\MoveinPictureBox\MoveinPictureBox\bin\Debug\MoveinPictureBox.exe
+D:\91_CSharp\02_Free\Study\MoveinPictureBox\MoveinPictureBox\bin\Debug\MoveinPictureBox.pdb
+D:\91_CSharp\02_Free\Study\MoveinPictureBox\MoveinPictureBox\obj\Debug\MoveinPictureBox.csprojResolveAssemblyReference.cache
+D:\91_CSharp\02_Free\Study\MoveinPictureBox\MoveinPictureBox\obj\Debug\MoveinPictureBox.Form1.resources
+D:\91_CSharp\02_Free\Study\MoveinPictureBox\MoveinPictureBox\obj\Debug\MoveinPictureBox.Properties.Resources.resources
+D:\91_CSharp\02_Free\Study\MoveinPictureBox\MoveinPictureBox\obj\Debug\MoveinPictureBox.csproj.GenerateResource.Cache
+D:\91_CSharp\02_Free\Study\MoveinPictureBox\MoveinPictureBox\obj\Debug\MoveinPictureBox.csproj.CoreCompileInputs.cache
+D:\91_CSharp\02_Free\Study\MoveinPictureBox\MoveinPictureBox\obj\Debug\MoveinPictureBox.exe
+D:\91_CSharp\02_Free\Study\MoveinPictureBox\MoveinPictureBox\obj\Debug\MoveinPictureBox.pdb
